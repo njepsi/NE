@@ -25,3 +25,10 @@ Welcome to NJEPSI's profile!
     <a href="#"><img alt="Python" src="https://img.shields.io/badge/Python%20-%2314354C.svg?logo=python&logoColor=white"></a>
     <a href="#"><img alt="R" src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white"></a>
 </p>
+
+# 📊 Github stats
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+  <summary>💻 GitHub Profile Stats</summary>
+    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="njepsi's Github Stats" src="https://github-readme-stats.vercel.app/api?username=njepsi&show_icons=true&theme=pink" height="192px"/></a>
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="njepsi's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=njepsi&layout=compact" height="192px"/></a>
